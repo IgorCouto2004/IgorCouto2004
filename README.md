@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Me chamo Igor</h1>
 <h3 >Eu sou apaixonado por ciência e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Multiple Linear Regression (MLR)**
+- 🌱 Atualmente estou aprendendo **Tuning em Banco de Dados**
 
 - 💬 Me pergunte sobre **Python, SQL, Power BI, Excel**
 
