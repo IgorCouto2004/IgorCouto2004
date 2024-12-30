@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Me chamo Igor</h1>
 <h3 >Eu sou apaixonado por ciência e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **SparkSQL**
+- 🌱 Atualmente estou aprendendo **Filtragem Colaborativa**
 
 - 💬 Me pergunte sobre **Python, SQL, Power BI, Excel**
 
