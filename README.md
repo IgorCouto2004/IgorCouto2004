@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Me chamo Igor</h1>
 <h3 >Eu sou apaixonado por ciência e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **MLFlow**
+- 🌱 Atualmente estou aprendendo **Ia generativa**
 
 - 💬 Me pergunte sobre **Python, SQL, Power BI, Excel**
 
