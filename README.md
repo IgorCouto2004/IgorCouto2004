@@ -12,25 +12,22 @@
   </a>
 </p>
 
-## 🚀 Sobre Mim
+## 🧑‍💻 Sobre Mim
 
-Cientista de Dados apaixonado por transformar números em insights valiosos. Atualmente expandindo conhecimentos em IA Generativa e desenvolvendo sistemas de visualização financeira.
+Cientista de Dados em formação com experiência prática em:
+- Análise exploratória de dados (EDA)
+- Modelos preditivos com Scikit-learn
+- Visualização de dados (Power BI, Looker)
+- Processos ETL e manipulação de dados
 
-```python
-class CientistaDeDados:
-    def __init__(self):
-        self.nome = "Igor Eduardo Dallan Do Couto"
-        self.localizacao = "Campinas, SP"
-        self.habilidades = ["Python", "SQL", "Power BI", "Machine Learning"]
-        self.formacao = {
-            "Banco de Dados": "Universidade Mackenzie (2025-2027)",
-            "Ciência de Dados": "Escola DNC (2024-2025)",
-            "Google Cloud Data Analytics": "Google (2025)"
-        }
-        
-    def contato(self):
-        return {
-            "email": "igorc1505@gmail.com",
-            "telefone": "+55 (19) 99985-8026",
-            "linkedin": "linkedin.com/in/igor-couto-861234256"
-        }
+## 🛠 Habilidades Técnicas
+
+**Linguagens & Ferramentas:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**Bibliotecas:**  
+Pandas | Scikit-learn | MLflow | Jupyter Notebooks
