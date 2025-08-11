@@ -1,13 +1,22 @@
-<h1 align="center">Olá 👋, Me chamo Igor</h1>
-<h3 >Eu sou apaixonado por ciência e análise de dados</h3>
+# Igor Couto | Cientista de Dados | Analista de Dados
 
-- 🌱 Atualmente estou aprendendo **Ia generativa**
+📊 Analista de dados apaixonado por transformar números em insights valiosos  
+🐍 Especialista em Python, SQL e ferramentas de BI  
+🚀 Atualmente expandindo conhecimentos em IA Generativa  
 
-- 💬 Me pergunte sobre **Python, SQL, Power BI, Excel**
+---
 
-- 📫 Você pode falar comigo por aqui **Igorc1505@gmail.com**
+## 🛠 Habilidades Técnicas
 
-- 🧑‍💼 Minhas experiências estão aqui **https://www.linkedin.com/in/igor-couto-861234256/**
+**Linguagens:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+**Ferramentas:**  
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+📫 **Contato:** lgorc1505@gmail.com  
+🔗 **LinkedIn:** [Igor Couto](https://www.linkedin.com/in/igor-couto-861234256/)
