@@ -29,4 +29,4 @@ Cientista de Dados em formação com experiência prática em:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Bibliotecas:**  
-Pandas | Scikit-learn | MLflow | Jupyter Notebooks
+| Pandas | Scikit-learn | MLflow
